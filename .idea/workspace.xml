@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="006e577c-18ab-4141-b080-67ae1ad2c918" name="Changes" comment="hh" />
+    <list default="true" id="006e577c-18ab-4141-b080-67ae1ad2c918" name="Changes" comment="kkk" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +22,12 @@
       <list>
         <option value="smart_boy_7_o_7 &lt;amarufjonov65&gt;" />
       </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/jbr/bin/arsha_projekt_new" />
   </component>
@@ -109,7 +115,56 @@
       <option name="project" value="LOCAL" />
       <updated>1709542414078</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hh">
+      <created>1709542528231</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709542528231</updated>
+    </task>
+    <task id="LOCAL-00005" summary="saa">
+      <created>1709542672434</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709542672435</updated>
+    </task>
+    <task id="LOCAL-00006" summary="saa">
+      <created>1709542712288</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709542712288</updated>
+    </task>
+    <task id="LOCAL-00007" summary="saa">
+      <created>1709542775285</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709542775285</updated>
+    </task>
+    <task id="LOCAL-00008" summary="saa">
+      <created>1709542829105</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709542829105</updated>
+    </task>
+    <task id="LOCAL-00009" summary="saa">
+      <created>1709542886339</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709542886339</updated>
+    </task>
+    <task id="LOCAL-00010" summary="kkk">
+      <created>1709542921551</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709542921551</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,7 +172,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="93" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="87" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="86" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -125,6 +188,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hh" />
-    <option name="LAST_COMMIT_MESSAGE" value="hh" />
+    <MESSAGE value="saa" />
+    <MESSAGE value="kkk" />
+    <option name="LAST_COMMIT_MESSAGE" value="kkk" />
   </component>
 </project>
